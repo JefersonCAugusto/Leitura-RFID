@@ -1,0 +1,5 @@
+http://microcontrolandos.blogspot.com.br/2014/02/pic-rfid-mfrc522.html
+
+livro Microcontroladores PIC programação em C   
+por: Fábbio Pereira
+
